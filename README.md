@@ -1,4 +1,4 @@
-#SDG Repositiry
+## SDG Repositiry
 
 This is the collaborative space for our tools and data around the SDG indicators. 
 
