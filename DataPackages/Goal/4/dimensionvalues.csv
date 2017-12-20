@@ -1,0 +1,19 @@
+Dimension,Value,Description
+Age,All,All age ranges or no breaks by age
+Age,36-49m,36 to 59 months old
+Age,25-64,25 to 64 years old
+Age,16-65,16 to 65 years old
+Age,15-64,15 to 64 years old
+Freq,A,Annual
+Location,T,All areas
+Nature,C,Country Data
+Nature,E,Estimated
+Nature,CA,Country Adjusted
+Nature,NA,Not Available
+Sex,Total,Both
+Sex,Male,Male
+Sex,Female,Female
+Units,Percentage,Percentage
+Units,Ration,Ratio
+Units,USD,Constant USD
+ValueType,P,P

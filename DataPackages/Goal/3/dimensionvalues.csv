@@ -1,0 +1,34 @@
+Dimension,Value,Description
+Age,All,All age ranges or no breaks by age
+Age,<1,under 1 year old
+Age,<5,under 5 years old
+Age,<1m,under 1 month old
+Age,15+,15 years old and over
+Age,15-49,15 to 49 years old
+Age,<15,under 15 years old
+Age,30-70,30 to 70 years old
+Age,15-19,15 to 19 years old
+Freq,A,Annual
+Location,T,All areas
+Nature,E,Estimated
+Nature,NA,Not Available
+Nature,C,Country Data
+Nature,M,Modeled
+Nature,CA,Country Adjusted
+Sex,Total,Both
+Sex,Female,Female
+Sex,Male,Male
+Units,per 100000 birth,"Per 100,000 live births"
+Units,Percentage,Percentage
+Units,#,Number
+Units,per 1000 births,"Per 1,000 live births"
+Units,per 1000 uninfec.pop,"Per 1,000 uninfected population"
+Units,per 100000 pop,"Per 100,000 population"
+Units,per 1000 pop,"Per 1,000 population"
+Units,Prob,Probability
+Units,L,Litres pure alcohol
+Units,USD,Constant USD
+Units,index,Index
+ValueType,UB,Upper bound
+ValueType,LB,Lower bound
+ValueType,P,P

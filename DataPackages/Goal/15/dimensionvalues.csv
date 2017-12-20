@@ -1,0 +1,21 @@
+Dimension,Value,Description
+Age,All,All age ranges or no breaks by age
+Freq,A,Annual
+Location,T,All areas
+Nature,E,Estimated
+Nature,C,Country Data
+Nature,NA,Not Available
+Nature,G,Global monitoring data
+Sex,Total,Both
+Units,T,Metric Tons
+Units,h,Hectares
+Units,Percentage,Percentage
+Units,Tonnes per hectare,Tonnes per hectare
+Units,Km^2,Square kilometers
+Units,NA,Not applicable
+Units,#,Number
+Units,USD,Constant USD
+Units,USD,USD
+ValueType,P,P
+ValueType,UB,Upper bound
+ValueType,LB,Lower bound

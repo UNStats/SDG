@@ -1,0 +1,18 @@
+Dimension,Value,Description
+Age,All,All age ranges or no breaks by age
+Freq,A,Annual
+Location,T,All areas
+Location,Urban,Urban
+Nature,E,Estimated
+Nature,M,Modeled
+Nature,NA,Not Available
+Nature,C,Country Data
+Sex,Total,Both
+Units,#,Number
+Units,Percentage,Percentage
+Units,USD,USD
+Units,per 1000 usd,Per 1000 USD
+Units,mgr/m^3,Micrograms per cubic meter
+ValueType,P,P
+ValueType,LB,Lower bound
+ValueType,UB,Upper bound

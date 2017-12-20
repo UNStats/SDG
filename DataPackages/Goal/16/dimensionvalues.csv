@@ -1,0 +1,22 @@
+Dimension,Value,Description
+Age,All,All age ranges or no breaks by age
+Age,1-14,1 to 14 years old
+Age,18+,18 years old and over
+Age,<18,under 18 years old
+Age,18-29,18 to 29 years old
+Age,<5,under 5 years old
+Freq,A,Annual
+Location,T,All areas
+Nature,C,Country Data
+Nature,M,Modeled
+Nature,NA,Not Available
+Nature,G,Global monitoring data
+Nature,E,Estimated
+Sex,Total,Both
+Sex,Female,Female
+Sex,Male,Male
+Units,per 100000 pop,"Per 100,000 population"
+Units,#,Number
+Units,NA,Not applicable
+Units,Percentage,Percentage
+ValueType,P,P

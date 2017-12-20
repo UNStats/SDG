@@ -1,0 +1,10 @@
+Dimension,Value,Description
+Age,All,All age ranges or no breaks by age
+Freq,A,Annual
+Location,T,All areas
+Nature,C,Country Data
+Sex,Total,Both
+Units,Kg,Kilograms
+Units,T,Metric Tons
+Units,Percentage,Percentage
+ValueType,P,P

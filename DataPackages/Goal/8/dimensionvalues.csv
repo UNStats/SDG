@@ -1,0 +1,42 @@
+Dimension,Value,Description
+Age,All,All age ranges or no breaks by age
+Age,15+,15 years old and over
+Age,15-24,15 to 24 years old
+Age,25+,25 years old and over
+Age,15-29,15 to 29 years old
+Age,14-28,14 to 28 years old
+Age,12-30,12 to 30 years old
+Age,16-24,16 to 24 years old
+Age,18-35,18 to 35 years old
+Age,14-24,14 to 24 years old
+Age,14-29,14 to 29 years old
+Age,5-17,5 to 17 years old
+Age,15-17,15 to 17 years old
+Age,5-14,5 to 14 years old
+Age,7-14,7 to 14 years old
+Age,7-17,7 to 17 years old
+Age,10-17,10 to 17 years old
+Age,10-14,10 to 14 years old
+Age,12-17,12 to 17 years old
+Age,12-14,12 to 14 years old
+Age,6-14,6 to 14 years old
+Age,6-17,6 to 17 years old
+Freq,A,Annual
+Location,T,All areas
+Nature,CA,Country Adjusted
+Nature,C,Country Data
+Nature,NA,Not Available
+Nature,M,Modeled
+Nature,E,Estimated
+Sex,Total,Both
+Sex,Female,Female
+Sex,Male,Male
+Units,Percentage,Percentage
+Units,per 100000 pop,"Per 100,000 population"
+Units,Kg,Kilograms
+Units,T,Metric Tons
+Units,LCU,Local currency
+Units,#,Number
+Units,per 100000 emp,"Per 100,000 employees"
+Units,USD,Constant USD
+ValueType,P,P

@@ -1,0 +1,22 @@
+Dimension,Value,Description
+Age,All,All age ranges or no breaks by age
+Age,15+,15 years old and over
+Age,<5,under 5 years old
+Freq,A,Annual
+Location,T,All areas
+Nature,E,Estimated
+Nature,G,Global monitoring data
+Nature,CA,Country Adjusted
+Nature,NA,Not Available
+Nature,M,Modeled
+Nature,C,Country Data
+Sex,Total,Both
+Units,Percentage,Percentage
+Units,#,Number
+Units,NA,Not applicable
+Units,USD,Constant USD
+Units,USD,USD
+Units,index,Index
+ValueType,P,P
+ValueType,UB,Upper bound
+ValueType,LB,Lower bound

@@ -1,0 +1,9 @@
+Dimension,Value,Description
+Age,All,All age ranges or no breaks by age
+Freq,A,Annual
+Location,T,All areas
+Nature,NA,Not Available
+Sex,Total,Both
+Units,Percentage,Percentage
+Units,Km^2,Square kilometers
+ValueType,P,P

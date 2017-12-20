@@ -1,0 +1,19 @@
+Dimension,Value,Description
+Age,All,All age ranges or no breaks by age
+Freq,A,Annual
+Location,T,All areas
+Nature,M,Modeled
+Nature,E,Estimated
+Nature,NA,Not Available
+Nature,C,Country Data
+Sex,Total,Both
+Units,TKm,Tonne kilometres
+Units,Km,Kilometres
+Units,#,Number
+Units,T,Metric Tons
+Units,USD,Constant USD
+Units,Percentage,Percentage
+Units,Kg,Kilograms per constant USD
+Units,Kg,kg CO2 equivalent per USD1 constant 2005 PPP GDP
+Units,pero M pop,Per million population
+ValueType,P,P

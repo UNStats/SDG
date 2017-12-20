@@ -1,0 +1,15 @@
+Dimension,Value,Description
+Age,All,All age ranges or no breaks by age
+Freq,A,Annual
+Location,T,All areas
+Location,Urban,Urban
+Location,Rural,Rural
+Nature,E,Estimated
+Nature,NA,Not Available
+Nature,C,Country Data
+Sex,Total,Both
+Units,Percentage,Percentage
+Units,NA,Not applicable
+Units,#,Number
+Units,USD,Constant USD
+ValueType,P,P

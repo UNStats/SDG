@@ -1,0 +1,204 @@
+M49,Name,Type
+8,Albania,Country
+12,Algeria,Country
+16,American Samoa,Country
+24,Angola,Country
+660,Anguilla,Country
+28,Antigua and Barbuda,Country
+32,Argentina,Country
+36,Australia,Country
+31,Azerbaijan,Country
+44,Bahamas,Country
+48,Bahrain,Country
+50,Bangladesh,Country
+52,Barbados,Country
+56,Belgium,Country
+84,Belize,Country
+60,Bermuda,Country
+535,"Bonaire, Sint Eustatius and Saba",Country
+76,Brazil,Country
+86,British Indian Ocean Territory,Country
+92,British Virgin Islands,Country
+96,Brunei Darussalam,Country
+100,Bulgaria,Country
+116,Cambodia,Country
+120,Cameroon,Country
+124,Canada,Country
+136,Cayman Islands,Country
+152,Chile,Country
+156,China,Country
+162,Christmas Island,Country
+166,Cocos (Keeling) Islands,Country
+170,Colombia,Country
+174,Comoros,Country
+178,Congo (Brazzaville),Country
+180,"Congo, (Kinshasa)",Country
+184,Cook Islands,Country
+188,Costa Rica,Country
+384,Côte d'Ivoire,Country
+191,Croatia,Country
+192,Cuba,Country
+531,Curaçao,Country
+196,Cyprus,Country
+208,Denmark,Country
+262,Djibouti,Country
+212,Dominica,Country
+214,Dominican Republic,Country
+218,Ecuador,Country
+818,Egypt,Country
+222,El Salvador,Country
+226,Equatorial Guinea,Country
+233,Estonia,Country
+238,Falkland Islands (Malvinas),Country
+234,Faroe Islands,Country
+242,Fiji,Country
+246,Finland,Country
+250,France,Country
+254,French Guiana,Country
+258,French Polynesia,Country
+260,French Southern Territories,Country
+266,Gabon,Country
+270,Gambia,Country
+268,Georgia,Country
+276,Germany,Country
+288,Ghana,Country
+292,Gibraltar,Country
+300,Greece,Country
+304,Greenland,Country
+308,Grenada,Country
+312,Guadeloupe,Country
+316,Guam,Country
+320,Guatemala,Country
+831,Guernsey,Country
+324,Guinea,Country
+624,Guinea-Bissau,Country
+328,Guyana,Country
+334,Heard and Mcdonald Islands,Country
+340,Honduras,Country
+352,Iceland,Country
+356,India,Country
+360,Indonesia,Country
+364,"Iran, Islamic Republic of",Country
+372,Ireland,Country
+833,Isle of Man,Country
+376,Israel,Country
+380,Italy,Country
+388,Jamaica,Country
+392,Japan,Country
+832,Jersey,Country
+400,Jordan,Country
+398,Kazakhstan,Country
+404,Kenya,Country
+296,Kiribati,Country
+408,Korea (North),Country
+410,Korea (South),Country
+414,Kuwait,Country
+428,Latvia,Country
+422,Lebanon,Country
+430,Liberia,Country
+434,Libya,Country
+440,Lithuania,Country
+450,Madagascar,Country
+458,Malaysia,Country
+462,Maldives,Country
+470,Malta,Country
+584,Marshall Islands,Country
+474,Martinique,Country
+478,Mauritania,Country
+480,Mauritius,Country
+175,Mayotte,Country
+484,Mexico,Country
+583,"Micronesia, Federated States of",Country
+492,Monaco,Country
+499,Montenegro,Country
+500,Montserrat,Country
+504,Morocco,Country
+508,Mozambique,Country
+104,Myanmar,Country
+516,Namibia,Country
+528,Netherlands,Country
+540,New Caledonia,Country
+554,New Zealand,Country
+558,Nicaragua,Country
+566,Nigeria,Country
+570,Niue,Country
+574,Norfolk Island,Country
+580,Northern Mariana Islands,Country
+578,Norway,Country
+512,Oman,Country
+586,Pakistan,Country
+585,Palau,Country
+591,Panama,Country
+598,Papua New Guinea,Country
+604,Peru,Country
+608,Philippines,Country
+612,Pitcairn,Country
+616,Poland,Country
+620,Portugal,Country
+630,Puerto Rico,Country
+634,Qatar,Country
+638,Réunion,Country
+642,Romania,Country
+643,Russian Federation,Country
+652,Saint Barthélemy	,Country
+654,Saint Helena,Country
+659,Saint Kitts and Nevis,Country
+662,Saint Lucia,Country
+663,Saint Martin (French Part),Country
+666,Saint Pierre and Miquelon,Country
+670,Saint Vincent and the Grenadines	,Country
+882,Samoa,Country
+678,Sao Tome and Principe,Country
+682,Saudi Arabia,Country
+686,Senegal,Country
+690,Seychelles,Country
+694,Sierra Leone,Country
+702,Singapore,Country
+534,Sint Maarten (Dutch part)	,Country
+705,Slovenia,Country
+90,Solomon Islands,Country
+710,South Africa,Country
+239,South Georgia and the South Sandwich Islands,Country
+724,Spain,Country
+144,Sri Lanka,Country
+736,Sudan,Country
+740,Suriname,Country
+744,Svalbard and Jan Mayen Islands,Country
+752,Sweden,Country
+760,Syrian Arab Republic (Syria),Country
+834,"Tanzania, United Republic of",Country
+764,Thailand,Country
+626,Timor-Leste,Country
+768,Togo,Country
+772,Tokelau,Country
+776,Tonga,Country
+780,Trinidad and Tobago,Country
+788,Tunisia,Country
+792,Turkey,Country
+795,Turkmenistan,Country
+796,Turks and Caicos Islands,Country
+798,Tuvalu,Country
+804,Ukraine,Country
+784,United Arab Emirates,Country
+826,United Kingdom,Country
+840,United States of America,Country
+850,United States Virgin Islands	,Country
+858,Uruguay,Country
+581,US Minor Outlying Islands,Country
+548,Vanuatu,Country
+862,Venezuela (Bolivarian Republic),Country
+704,Viet Nam,Country
+732,Western Sahara,Country
+887,Yemen,Country
+53,Australia and New Zealand,Region
+62,Central Asia and Southern Asia (SDG),Region
+753,Eastern and South-Eastern Asia,Region
+432,Landlocked developing countries (LLDCs),Region
+419,Latin America and the Caribbean,Region
+199,Least Developed Countries (LDCs),Region
+747,Northern Africa and Western Asia,Region
+513,Northern America and Europe,Region
+543,Oceania (exc. Australia and New Zealand),Region
+722,Small island developing States (SIDS),Region
+202,Sub-Saharan Africa,Region
+1,World,Region
