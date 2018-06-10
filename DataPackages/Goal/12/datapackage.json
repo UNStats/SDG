@@ -1,1 +1,30 @@
-{"name":"Goal-12","title":"Ensure sustainable consumption and production patterns","description":"Goal 12 aims to promote sustainable consumption and production patterns through measures such as specific policies and international agreements on the management of materials that are toxic to the environment.","homepage":"https://unstats.un.org/sdgs","resources":[{"name":"data","path":"data.csv","format":"csv","mediatype":"text/csv","schema":{"fields":[{"name":"Goal","type":"string"},{"name":"Target","type":"string"},{"name":"Indicator","type":"string"},{"name":"SeriesCode","type":"string"},{"name":"Country","type":"string"},{"name":"Time","type":"string"},{"name":"Val","type":"string"},{"name":"ValType","type":"string"},{"name":"Age","type":"string"},{"name":"Freq","type":"string"},{"name":"Location","type":"string"},{"name":"Nature","type":"string"},{"name":"Sex","type":"string"},{"name":"Units","type":"string"},{"name":"ValueType","type":"string"}]}},{"name":"dimensionvalues","path":"dimensionvalues.csv","format":"csv","mediatype":"text/csv","schema":{"fields":[{"name":"Dimension","type":"string"},{"name":"Value","type":"string"},{"name":"Description","type":"string"}]}},{"name":"geography","path":"geography.csv","format":"csv","mediatype":"text/csv","schema":{"fields":[{"name":"M49","type":"string"},{"name":"Name","type":"string"},{"name":"Type","type":"string"}]}}],"sources":[{"title":"United Nations Statistics Division","path":"https://unstats.un.org"}]}
+ {
+                    "name": "Goal 12",
+                    "title": "Ensure sustainable consumption and production patterns",
+                    "description": "Goal 12 aims to promote sustainable consumption and production patterns through measures such as specific policies and international agreements on the management of materials that are toxic to the environment.",
+                    "homepage": "https://unstats.un.org/sdgs",
+                    "resources": [{
+                            "name": "data",
+                            "path": "data.csv",
+                            "format": "csv",
+                            "mediatype": "text/csv",
+                            "schema": { "fields": [{ "name": "Goal", "type": "string" }, { "name": "Target", "type": "string" }, { "name": "Indicator", "type": "string" }, { "name": "SeriesCode", "type": "string" }, { "name": "SeriesDescription", "type": "string" }, { "name": "GeoAreaName", "type": "string" }, { "name": "TimePeriod", "type": "string" }, { "name": "Value", "type": "string" }, { "name": "Time_Detail", "type": "string" }, { "name": "Source", "type": "string" }, { "name": "FootNote", "type": "string" }, { "name": "[Name of international agreement]", "type": "string" }, { "name": "[Type of product]", "type": "string" }, { "name": "[Units]", "type": "string" }] }
+                            }, {
+                            "name": "dimensionvalues",
+                            "path": "dimensionvalues.csv",
+                            "format": "csv",
+                            "mediatype": "text/csv",
+                            "schema": { "fields": [{ "name": "Dimension", "type": "string" }, { "name": "Value", "type": "string" }, { "name": "Description", "type": "string" }] }
+                            }, {
+                            "name": "geography",
+                            "path": "geography.csv",
+                            "format": "csv",
+                            "mediatype": "text/csv",
+                            "schema": { "fields": [{ "name": "Lineage", "type": "string" }, { "name": "ParentGeoAreaName", "type": "string" }, { "name": "ParentGeoAreaCode", "type": "string" }, { "name": "GeoAreaName", "type": "string" }, { "name": "GeoAreacode", "type": "string" }, { "name": "Type", "type": "string" }] }
+                            }
+                        ],
+                    "sources": [{
+                        "title": "United Nations Statistics Division",
+                        "path": "https://unstats.un.org"
+                        }]
+            }

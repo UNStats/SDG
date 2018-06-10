@@ -1,18 +1,68 @@
-Dimension,Value,Description
-Age,All,All age ranges or no breaks by age
-Freq,A,Annual
-Location,T,All areas
-Location,Urban,Urban
-Nature,E,Estimated
-Nature,M,Modeled
-Nature,NA,Not Available
-Nature,C,Country Data
-Sex,Total,Both
-Units,#,Number
-Units,Percentage,Percentage
-Units,USD,USD
-Units,per 1000 usd,Per 1000 USD
-Units,mgr/m^3,Micrograms per cubic meter
-ValueType,P,P
-ValueType,LB,Lower bound
-ValueType,UB,Upper bound
+Dimension, Value, Description
+"Age","ALLAGE","All age ranges or no breaks by age"
+"Age","ALLAGE","All age ranges or no breaks by age"
+"Age","ALLAGE","All age ranges or no breaks by age"
+"Age","ALLAGE","All age ranges or no breaks by age"
+"Age","ALLAGE","All age ranges or no breaks by age"
+"Age","ALLAGE","All age ranges or no breaks by age"
+"Age","ALLAGE","All age ranges or no breaks by age"
+"Bounds","MP","P"
+"Bounds","MP","P"
+"Bounds","MP","P"
+"Bounds","MP","P"
+"Bounds","MP","P"
+"Bounds","MP","P"
+"Bounds","MP","P"
+"Bounds","MP","P"
+"Bounds","LB","Lower bound"
+"Bounds","LB","Lower bound"
+"Bounds","UB","Upper bound"
+"Bounds","UB","Upper bound"
+"Freq","ANNUAL","Annual"
+"Freq","ANNUAL","Annual"
+"Freq","ANNUAL","Annual"
+"Freq","ANNUAL","Annual"
+"Freq","ANNUAL","Annual"
+"Freq","ANNUAL","Annual"
+"Freq","ANNUAL","Annual"
+"Location","ALLAREA","All areas"
+"Location","ALLAREA","All areas"
+"Location","ALLAREA","All areas"
+"Location","ALLAREA","All areas"
+"Location","ALLAREA","All areas"
+"Location","ALLAREA","All areas"
+"Location","ALLAREA","All areas"
+"Location","ALLAREA","All areas"
+"Location","URBAN","Urban"
+"Sex","BOTHSEX","Both"
+"Sex","BOTHSEX","Both"
+"Sex","BOTHSEX","Both"
+"Sex","BOTHSEX","Both"
+"Sex","BOTHSEX","Both"
+"Sex","BOTHSEX","Both"
+"Sex","BOTHSEX","Both"
+"Type of facilities","EDUFAC","education facilities"
+"Type of facilities","HEAFAC","health facilities"
+"Units","mgr/m^3","Micrograms per cubic meter"
+"Units","NUMBER","Number"
+"Units","NUMBER","Number"
+"Units","NUMBER","Number"
+"Units","NUMBER","Number"
+"Units","NUMBER","Number"
+"Units","NUMBER","Number"
+"Units","NUMBER","Number"
+"Units","NUMBER","Number"
+"Units","NUMBER","Number"
+"Units","NUMBER","Number"
+"Units","NUMBER","Number"
+"Units","NUMBER","Number"
+"Units","NUMBER","Number"
+"Units","NUMBER","Number"
+"Units","NUMBER","Number"
+"Units","NUMBER","Number"
+"Units","PERCENT","Percentage"
+"Units","PERCENT","Percentage"
+"Units","PERCENT","Percentage"
+"Units","CU_USD","USD"
+"Units","CU_USD","USD"
+"Units","PER_1000_USD","Per 1000 USD"

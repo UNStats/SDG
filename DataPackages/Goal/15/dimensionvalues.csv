@@ -1,21 +1,77 @@
-Dimension,Value,Description
-Age,All,All age ranges or no breaks by age
-Freq,A,Annual
-Location,T,All areas
-Nature,E,Estimated
-Nature,C,Country Data
-Nature,NA,Not Available
-Nature,G,Global monitoring data
-Sex,Total,Both
-Units,T,Metric Tons
-Units,h,Hectares
-Units,Percentage,Percentage
-Units,Tonnes per hectare,Tonnes per hectare
-Units,Km^2,Square kilometers
-Units,NA,Not applicable
-Units,#,Number
-Units,USD,Constant USD
-Units,USD,USD
-ValueType,P,P
-ValueType,UB,Upper bound
-ValueType,LB,Lower bound
+Dimension, Value, Description
+"Age","ALLAGE","All age ranges or no breaks by age"
+"Age","ALLAGE","All age ranges or no breaks by age"
+"Age","ALLAGE","All age ranges or no breaks by age"
+"Age","ALLAGE","All age ranges or no breaks by age"
+"Age","ALLAGE","All age ranges or no breaks by age"
+"Bounds","MP","P"
+"Bounds","MP","P"
+"Bounds","MP","P"
+"Bounds","MP","P"
+"Bounds","MP","P"
+"Bounds","MP","P"
+"Bounds","MP","P"
+"Bounds","MP","P"
+"Bounds","MP","P"
+"Bounds","LB","Lower bound"
+"Bounds","LB","Lower bound"
+"Bounds","LB","Lower bound"
+"Bounds","LB","Lower bound"
+"Bounds","LB","Lower bound"
+"Bounds","LB","Lower bound"
+"Bounds","LB","Lower bound"
+"Bounds","LB","Lower bound"
+"Bounds","UB","Upper bound"
+"Bounds","UB","Upper bound"
+"Bounds","UB","Upper bound"
+"Bounds","UB","Upper bound"
+"Bounds","UB","Upper bound"
+"Bounds","UB","Upper bound"
+"Bounds","UB","Upper bound"
+"Bounds","UB","Upper bound"
+"Freq","ANNUAL","Annual"
+"Freq","ANNUAL","Annual"
+"Freq","ANNUAL","Annual"
+"Freq","ANNUAL","Annual"
+"Freq","ANNUAL","Annual"
+"Location","ALLAREA","All areas"
+"Location","ALLAREA","All areas"
+"Location","ALLAREA","All areas"
+"Location","ALLAREA","All areas"
+"Location","ALLAREA","All areas"
+"Sex","BOTHSEX","Both"
+"Sex","BOTHSEX","Both"
+"Sex","BOTHSEX","Both"
+"Sex","BOTHSEX","Both"
+"Sex","BOTHSEX","Both"
+"Units","CON_USD","Constant USD"
+"Units","CON_USD","Constant USD"
+"Units","HECTARES","Hectares"
+"Units","INDEX","Index"
+"Units","INDEX","Index"
+"Units","KMSQ","Square kilometers"
+"Units","KMSQ","Square kilometers"
+"Units","NOTAP","Not applicable"
+"Units","NUMBER","Number"
+"Units","NUMBER","Number"
+"Units","NUMBER","Number"
+"Units","NUMBER","Number"
+"Units","NUMBER","Number"
+"Units","PERCENT","Percentage"
+"Units","PERCENT","Percentage"
+"Units","PERCENT","Percentage"
+"Units","PERCENT","Percentage"
+"Units","PERCENT","Percentage"
+"Units","PERCENT","Percentage"
+"Units","PERCENT","Percentage"
+"Units","PERCENT","Percentage"
+"Units","PERCENT","Percentage"
+"Units","PERCENT","Percentage"
+"Units","PERCENT","Percentage"
+"Units","PERCENT","Percentage"
+"Units","T_PER_HA","Tonnes per hectare"
+"Units","T_PER_HA","Tonnes per hectare"
+"Units","TONNES_M","millions of tonnes"
+"Units","HA_TH","Thousands of hectares"
+"Units","HA_TH","Thousands of hectares"
+"Units","HA_TH","Thousands of hectares"

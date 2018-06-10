@@ -1,9 +1,18 @@
-Dimension,Value,Description
-Age,All,All age ranges or no breaks by age
-Freq,A,Annual
-Location,T,All areas
-Nature,NA,Not Available
-Sex,Total,Both
-Units,Percentage,Percentage
-Units,Km^2,Square kilometers
-ValueType,P,P
+Dimension, Value, Description
+"Age","ALLAGE","All age ranges or no breaks by age"
+"Bounds","MP","P"
+"Bounds","MP","P"
+"Bounds","LB","Lower bound"
+"Bounds","UB","Upper bound"
+"Freq","ANNUAL","Annual"
+"Location","ALLAREA","All areas"
+"Sex","BOTHSEX","Both"
+"Units","KMSQ","Square kilometers"
+"Units","PERCENT","Percentage"
+"Units","PERCENT","Percentage"
+"Units","PERCENT","Percentage"
+"Units","KMSQ","Square kilometers"
+"Units","PERCENT","Percentage"
+"Units","PERCENT","Percentage"
+"Units","PERCENT","Percentage"
+"Units","PERCENT","Percentage"

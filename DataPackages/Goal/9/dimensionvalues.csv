@@ -1,19 +1,88 @@
-Dimension,Value,Description
-Age,All,All age ranges or no breaks by age
-Freq,A,Annual
-Location,T,All areas
-Nature,M,Modeled
-Nature,E,Estimated
-Nature,NA,Not Available
-Nature,C,Country Data
-Sex,Total,Both
-Units,TKm,Tonne kilometres
-Units,Km,Kilometres
-Units,#,Number
-Units,T,Metric Tons
-Units,USD,Constant USD
-Units,Percentage,Percentage
-Units,Kg,Kilograms per constant USD
-Units,Kg,kg CO2 equivalent per USD1 constant 2005 PPP GDP
-Units,pero M pop,Per million population
-ValueType,P,P
+Dimension, Value, Description
+"Age","ALLAGE","All age ranges or no breaks by age"
+"Age","ALLAGE","All age ranges or no breaks by age"
+"Age","ALLAGE","All age ranges or no breaks by age"
+"Age","ALLAGE","All age ranges or no breaks by age"
+"Age","ALLAGE","All age ranges or no breaks by age"
+"Age","ALLAGE","All age ranges or no breaks by age"
+"Age","ALLAGE","All age ranges or no breaks by age"
+"Age","ALLAGE","All age ranges or no breaks by age"
+"Age","ALLAGE","All age ranges or no breaks by age"
+"Bounds","MP","P"
+"Bounds","MP","P"
+"Bounds","MP","P"
+"Bounds","MP","P"
+"Bounds","MP","P"
+"Bounds","MP","P"
+"Bounds","MP","P"
+"Bounds","MP","P"
+"Bounds","MP","P"
+"Freq","ANNUAL","Annual"
+"Freq","ANNUAL","Annual"
+"Freq","ANNUAL","Annual"
+"Freq","ANNUAL","Annual"
+"Freq","ANNUAL","Annual"
+"Freq","ANNUAL","Annual"
+"Freq","ANNUAL","Annual"
+"Freq","ANNUAL","Annual"
+"Freq","ANNUAL","Annual"
+"Location","ALLAREA","All areas"
+"Location","ALLAREA","All areas"
+"Location","ALLAREA","All areas"
+"Location","ALLAREA","All areas"
+"Location","ALLAREA","All areas"
+"Location","ALLAREA","All areas"
+"Location","ALLAREA","All areas"
+"Location","ALLAREA","All areas"
+"Location","ALLAREA","All areas"
+"Mode of transportation","AIR","air transport"
+"Mode of transportation","AIR","air transport"
+"Mode of transportation","AIR","air transport"
+"Mode of transportation","AIR","air transport"
+"Mode of transportation","AIR","air transport"
+"Mode of transportation","RAI","rail transport"
+"Mode of transportation","RAI","rail transport"
+"Mode of transportation","ROA","road transport"
+"Mode of transportation","ROA","road transport"
+"Sex","BOTHSEX","Both"
+"Sex","BOTHSEX","Both"
+"Sex","BOTHSEX","Both"
+"Sex","BOTHSEX","Both"
+"Sex","BOTHSEX","Both"
+"Sex","BOTHSEX","Both"
+"Sex","BOTHSEX","Both"
+"Sex","BOTHSEX","Both"
+"Sex","BOTHSEX","Both"
+"Sex","BOTHSEX","Both"
+"Sex","BOTHSEX","Both"
+"Type of mobile technology","AL2G","at least 2g mobile network"
+"Type of mobile technology","AL3G","at least 3g mobile network"
+"Type of mobile technology","AL4G","at least 4g mobile network"
+"Units","CON_USD","Constant USD"
+"Units","KG_PER_CON_USD","Kilograms per constant USD"
+"Units","KG_PER_CON_USD","Kilograms per constant USD"
+"Units","KM","Kilometres"
+"Units","KM","Kilometres"
+"Units","KM","Kilometres"
+"Units","NUMBER","Number"
+"Units","PER_1000000_POP","Per million population"
+"Units","PERCENT","Percentage"
+"Units","PERCENT","Percentage"
+"Units","PERCENT","Percentage"
+"Units","PERCENT","Percentage"
+"Units","PERCENT","Percentage"
+"Units","PERCENT","Percentage"
+"Units","PERCENT","Percentage"
+"Units","PERCENT","Percentage"
+"Units","PERCENT","Percentage"
+"Units","PERCENT","Percentage"
+"Units","METONS","Metric Tons"
+"Units","T_KM","Tonne kilometres"
+"Units","T_KM","Tonne kilometres"
+"Units","T_KM","Tonne kilometres"
+"Units","T_KM","Tonne kilometres"
+"Units","T_KM","Tonne kilometres"
+"Units","CON_10USD","constant 2010 United States dollars"
+"Units","P_KM","passenger kilometres"
+"Units","TONNES","tonnes"
+"Units","TONNES_M","millions of tonnes"

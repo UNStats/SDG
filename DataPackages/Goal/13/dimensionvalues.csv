@@ -1,9 +1,5 @@
-Dimension,Value,Description
-Age,All,All age ranges or no breaks by age
-Freq,A,Annual
-Location,T,All areas
-Nature,C,Country Data
-Nature,E,Estimated
-Sex,Total,Both
-Units,#,Number
-ValueType,P,P
+Dimension, Value, Description
+"Units","NUMBER","Number"
+"Units","NUMBER","Number"
+"Units","NUMBER","Number"
+"Units","NUMBER","Number"
