@@ -1,4 +1,4 @@
-Lineage, ParentGeoAreaName, ParentGeoAreaCode, GeoAreaName, GeoAreacode, Type
+Lineage,ParentGeoAreaName,ParentGeoAreaCode,GeoAreaName,GeoAreacode,Type
 "World (1)",,,"World","1","Region"
 "World (1) -- Antarctica (10)","World","1","Antarctica","10","Country"
 "World (1) -- Africa (2)","World","1","Africa","2","Region"
