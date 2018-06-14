@@ -6,18 +6,21 @@
                     "resources": [{
                             "name": "data",
                             "path": "data.csv",
+                            "encoding": "ISO-8859-1",
                             "format": "csv",
                             "mediatype": "text/csv",
                             "schema": { "fields": [{ "name": "Goal", "type": "string" }, { "name": "Target", "type": "string" }, { "name": "Indicator", "type": "string" }, { "name": "SeriesCode", "type": "string" }, { "name": "SeriesDescription", "type": "string" }, { "name": "GeoAreaName", "type": "string" }, { "name": "TimePeriod", "type": "string" }, { "name": "Value", "type": "string" }, { "name": "Time_Detail", "type": "string" }, { "name": "Source", "type": "string" }, { "name": "FootNote", "type": "string" }, { "name": "[Age]", "type": "string" }, { "name": "[Hazard type]", "type": "string" }, { "name": "[Location]", "type": "string" }, { "name": "[Sex]", "type": "string" }, { "name": "[Units]", "type": "string" }] }
                             }, {
                             "name": "dimensionvalues",
                             "path": "dimensionvalues.csv",
+                            "encoding": "ISO-8859-1",
                             "format": "csv",
                             "mediatype": "text/csv",
                             "schema": { "fields": [{ "name": "Dimension", "type": "string" }, { "name": "Value", "type": "string" }, { "name": "Description", "type": "string" }] }
                             }, {
                             "name": "geography",
                             "path": "geography.csv",
+                            "encoding": "ISO-8859-1",
                             "format": "csv",
                             "mediatype": "text/csv",
                             "schema": { "fields": [{ "name": "Lineage", "type": "string" }, { "name": "ParentGeoAreaName", "type": "string" }, { "name": "ParentGeoAreaCode", "type": "string" }, { "name": "GeoAreaName", "type": "string" }, { "name": "GeoAreacode", "type": "string" }, { "name": "Type", "type": "string" }] }
