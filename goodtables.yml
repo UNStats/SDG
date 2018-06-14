@@ -1,7 +1,7 @@
 datapackages:
-  - source: DataPackages/Goal/1/datapackage.json
-    skip_checks:
-      - duplicate_rows
+  - DataPackages/Goal/1/datapackage.json
 
 settings:
   row_limit: 100000
+  checks:
+    duplicate_rows: false
