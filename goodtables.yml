@@ -4,4 +4,4 @@ datapackages:
 settings:
   row_limit: 100000
   checks:
-    duplicate_rows: false
+    duplicate-row: false
