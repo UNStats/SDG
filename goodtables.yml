@@ -1,2 +1,5 @@
 datapackages:
   - DataPackages/Goal/1/datapackage.json
+
+settings:
+  row_limit: 10000
